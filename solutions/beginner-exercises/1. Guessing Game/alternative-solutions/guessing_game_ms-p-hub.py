@@ -1,4 +1,3 @@
-#ChatGPT
 import random
 import math
 
