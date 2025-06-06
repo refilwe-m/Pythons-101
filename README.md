@@ -7,7 +7,7 @@ A collection of Python exercises and challenges for beginners to advanced learne
 
 ## 📂 Repository Structure
 
-```mermaid
+```text
 PYTHONS-101/
 │
 ├── basics/
