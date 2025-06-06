@@ -9,18 +9,21 @@ A collection of Python exercises and challenges for beginners to advanced learne
 
 ```mermaid
 PYTHONS-101/
+│
 ├── basics/
 │ ├── challenges/
 │ │ └── beginner-exercises/
 │ │ └── 1. Guessing Game/
 │ │ ├── guessing_game.py
 │ │ └── README.md
+│ │
 │ └── solutions/
 │ └── beginner-exercises/
 │ └── 1. Guessing Game/
 │ ├── alternative-solutions/
 │ ├── README.md
 │ └── guessing_game.py
+│
 └── README.md
 ```
 
