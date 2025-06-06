@@ -7,6 +7,7 @@ A collection of Python exercises and challenges for beginners to advanced learne
 
 ## 📂 Repository Structure
 
+```mermaid
 PYTHONS-101/
 ├── basics/
 │ ├── challenges/
@@ -21,6 +22,7 @@ PYTHONS-101/
 │ ├── README.md
 │ └── guessing_game.py
 └── README.md
+```
 
 ## 🎯 Exercises
 
