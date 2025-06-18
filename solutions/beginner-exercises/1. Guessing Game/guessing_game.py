@@ -30,11 +30,12 @@ def play_game():
     min_num,max_num = set_range()
     target = generate_random_number(min_num,max_num)
     num_guesses = 0
+    total_chances = 4
 
     message = ''
     is_correct= False
 
-    while not is_correct:
+    while not is_correct and total_chances != num_guesses :
         user_guess = get_user_input(min_num,max_num)
         num_guesses+=1
         message, is_correct = check_guess(target,user_guess,num_guesses)
